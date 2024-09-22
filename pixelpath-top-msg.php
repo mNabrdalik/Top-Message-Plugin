@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:      Message on top OOP
- * Description:       An exercise to undestand OOP in php, simple plugin to add customize text on top of pages
+ * Description:       An exercise to undestand OOP in php, simple plugin to add customized text on top of pages
  * Version:           0.1.0
  * Requires at least: 6.1
  * Requires PHP:      7.0
