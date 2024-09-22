@@ -1,0 +1,16 @@
+.pixelpath-msg {
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    padding: 24px;
+    z-index: 999;
+}
+
+.pixelpath-msg p {
+    font-size: 18px;
+    margin: 0;
+}

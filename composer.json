@@ -1,0 +1,18 @@
+{
+    "name": "pixelpath/top-message-plugin",
+    "description": "A simple WordPress plugin that adds a customizable message at the top of each page",
+    "version": "1.0.0",
+    "autoload": {
+        "psr-4": {
+            "Pixelpath\\TopMessagePlugin\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Michał Nabrdalik",
+            "email": "m.nabrdalik.93@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
